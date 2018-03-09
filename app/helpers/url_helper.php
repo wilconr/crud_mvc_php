@@ -2,6 +2,6 @@
   //para redireccinar pagina
   function redireccionar($pagina)
   {
-    header('localhost') . RUTA_URL . $pagina;
+    header('location: ' . RUTA_URL . $pagina);
   }
 ?>
