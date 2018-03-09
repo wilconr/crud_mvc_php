@@ -3,6 +3,7 @@
 //cargamos librerias
 
 require_once 'config/Configurar.php';
+require_once 'helpers/url_helper.php';
 
 // require_once 'librerias/Base.php';
 // require_once 'librerias/Controlador.php';
